@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spacecowboy423
-- 👀 I’m interested in ... learning new languages and new program techniques
+- 👀 I’m interested in ... learning new languages and new programming techniques
 - 🌱 I’m currently learning ... java, c++, and python
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... email
